@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b01zp1pp2FA=",
+  "success": true,
+  "projectFilePath": "D:\\Asztal\\Tantárgyak\\3.félév\\IT\\10\\devops\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\csatocsegekaroly\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
